@@ -1,0 +1,27 @@
+================= gds menu barre ================
+    Etat du reseau
+    bulletin general
+        Liste des lignes
+    journal du trafic
+        infos Trajets
+        recette du parc
+        equipe de bord du jour
+    Analyse des donnees
+        ?
+    Production globale
+        depenses
+        versements
+        Etat mensuel
+        Pointage agents
+    Factures
+        mes factures
+    Mon reseau
+        reseau Dakar
+        Mon parc autobus
+    Espace Prive
+        compts admin
+        utilisateurs
+        personnel manager
+        Parametres du site
+    Support client
+    deconnexion
