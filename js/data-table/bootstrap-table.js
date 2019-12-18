@@ -350,7 +350,7 @@
         silentSort: true,
         maintainSelected: false,
         searchTimeOut: 500,
-        searchText: '',
+        searchText: 'Recherche',
         iconSize: undefined,
         buttonsClass: 'default',
         iconsPrefix: 'glyphicon', // glyphicon of fa (font awesome)

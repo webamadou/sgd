@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb896807-7a4c-45d3-9f26-3bcbcfb61be8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-department.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-library-assets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-professor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-student.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advance-form-element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alerts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-courses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-professors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-students.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/area-charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar-charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-form-element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-payment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/departments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dual-list-box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-department.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-library-assets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-professor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit-student.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images-cropper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog-details/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/contact/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/courses/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/courses/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/courses/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cropper/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/green1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo/logosn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/notification/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product/book-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product/book-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product/book-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product/book-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product/pro4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product/profile-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/profile/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/student/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/student/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/student/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/student/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/c3-charts/c3-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/c3-charts/c3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/c3-charts/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chart/jquery.peity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chart/peity-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/area-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/bar-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/line-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/charts/rounded-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chosen/chosen-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chosen/chosen.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chosen/chosen.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/code-editor/code-editor-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/code-editor/code-editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/code-editor/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/colorpicker/color-picker-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/colorpicker/jquery.spectrum.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/counterup-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counterup/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cropper/cropper-actice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cropper/cropper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/data-maps-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/datamaps.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-map/topojson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/bootstrap-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data-table/bootstrap-table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data-table/data-table-active.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data-table/data-table-active.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datapicker/bootstrap-datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datapicker/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datapicker/datepicker-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datepicker/datepicker-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/datepicker/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dropzone/dropzone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/duallistbox/duallistbox.active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/duallistbox/jquery.bootstrap-duallistbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/bootstrap-datetimepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/bootstrap-editable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/jquery.mockjax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/mock-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/editable/xediable-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/form-validation/form-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/form-validation/jquery.form.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/form-validation/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/google.maps/google.maps-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/icheck/icheck-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/icheck/icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/input-mask/jasny-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ionRangeSlider/ion.rangeSlider.active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ionRangeSlider/ion.rangeSlider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/knob/jquery.knob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/knob/knob-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/home3-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/morris-active-pro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/morris-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/morrisjs/raphael-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/multiple-email/multiple-email-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notifications/Lobibox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/notifications/notification-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/password-meter/password-meter-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/password-meter/pwstrength-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/password-meter/zxcvbn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pdf/jquery.media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pdf/pdf-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/peity/jquery.peity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/peity/peity-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rangle-slider/jquery-ui-1.10.4.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rangle-slider/jquery-ui-touch-punch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rangle-slider/rangle-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/select2/select2-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/select2/select2.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sparkline/jquery.charts-sparkline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sparkline/jquery.sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sparkline/sparkline-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/summernote/summernote-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/summernote/summernote.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/touchspin/jquery.bootstrap-touchspin.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/touchspin/touchspin-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tree-line/jstree.active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tree-line/jstree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wizard/jquery.steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wizard/steps-active.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-assets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/line-charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox-compose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox-view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-meter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-recovery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf-viewer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/mamunur.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/preloader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/professor-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rounded-chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparkline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinymc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree-view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x-editable.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3475">
+              <caret line="649" column="49" selection-start-line="649" selection-start-column="49" selection-end-line="649" selection-end-column="49" />
+              <folding>
+                <element signature="n#li#2;n#ul#0;n#nav#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>heade</find>
+      <find>prof</find>
+      <find>logo</find>
+      <find>--couleur-blue</find>
+      <find>bread</find>
+      <find>table</find>
+      <find>01-no</find>
+      <find>01-Nov</find>
+      <find>sea</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
+        <option value="$PROJECT_DIR$/js/data-table/data-table-active.js" />
+        <option value="$PROJECT_DIR$/js/data-table/bootstrap-table.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="665" />
+    <option name="y" value="27" />
+    <option name="width" value="666" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SolutionDigitaleGlobale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SolutionDigitaleGlobale" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb896807-7a4c-45d3-9f26-3bcbcfb61be8" name="Default Changelist" comment="" />
+      <created>1576660198329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576660198329</updated>
+      <workItem from="1576660208136" duration="10943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10943000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1331" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24980545" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1467" column="22" selection-start-line="1467" selection-start-column="22" selection-end-line="1476" selection-end-column="67" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data-table/bootstrap-table-editable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data-table/bootstrap-editable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data-table/data-table-active.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/data-table/bootstrap-table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#26#32#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/calendar/moment.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret column="1170" selection-start-column="1170" selection-end-column="1170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="2" selection-start-line="10" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3475">
+          <caret line="649" column="49" selection-start-line="649" selection-start-column="49" selection-end-line="649" selection-end-column="49" />
+          <folding>
+            <element signature="n#li#2;n#ul#0;n#nav#0;n#div#1;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

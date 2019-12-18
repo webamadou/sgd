@@ -1,48 +1,9 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name: Kiaalap - Kiaalap Admin Template 
-    Description: Kiaalap Admin Template is a responsive admin template based on the famous Bootstrap framework it's easy to edit and customize by documentation.
-    Author: Colorlib
-    Version: 1.0
-
------------------------------------------------------------------------------------
-    
-    CSS INDEX
-    ===================
-	
-    1. Common
-	2. Helper Class
-	3. All Nested Class
-	4. left sidebar
-		4.1 left Sidebar switcher
-	5. Header Top
-	6. Breadcrumb
-	7. Star Rating css
-	8. Analytics
-	9. widgets CSS
-	10. Event
-	11. Professors
-	12. Student
-	13. Courses
-		13.1 Courses Info
-		13.2. Course Payment
-	14. Library
-	15. Inbox
-	16. Google Map
-	17. Images Cropper
-	18. Form Element
-	19. Mini Sidebar
-	20. Custom Scroll
-	21. Wizard CSS
-	22. Notification
-	23. footer
-
------------------------------------------------------------------------------------*/
-
-/*----------------------------------------*/
-/*  1. Common
-/*----------------------------------------*/
-html, body {height: 100%; font-family: 'Roboto', sans-serif;font-weight:400;background:#F6F8FA;}
+:root{
+    --couleur-yellow: #fbcc3c;
+    --couleur-dark:  #404040;
+    --couleur-blue: #3a78fa;
+}
+html, body {height: 100%; font-family: 'Roboto', sans-serif;font-weight:400;background:#F6F8FA; font-size: 12px;}
 .floatleft {float:left}
 .floatright {float:right}
 .alignleft {float:left;margin-right:15px;margin-bottom: 15px}
@@ -66,6 +27,19 @@ a:visited, a:link, a:active {
 }
 a:active, a:hover {
   outline: 0 none;
+}
+a.logo-text {
+	font-size: 3.4rem;
+	font-weight: 900;
+	color: #fbcc3c;
+	text-shadow: -1px 0 var(--couleur-blue), 0 1px var(--couleur-blue), 1px 0 var(--couleur-blue), 0 -1px var(--couleur-blue);
+	display: block;
+	line-height: 1;
+}
+.sidebar-header .slogan a {
+	word-spacing: 6px;
+	color: #404040;
+	font-size: small;
 }
 ul{
 list-style: outside none none;
@@ -467,7 +441,7 @@ body {}
 }
 .header-right-info ul.header-right-menu > li > a{
 	display:inline-block;
-	color:#fff;
+	color: var(--couleur-dark);
 	padding: 0px 0px 0px 20px;
 	font-size:20px;
 	text-decoration:none;
@@ -820,13 +794,14 @@ ul.setting-panel-list li{
     background: #e12503;
 }
 .breadcome-list {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background: #fff;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-bottom: 30px;
-    margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #fff;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	box-shadow: 1px 1px #ddd;
 }
 .sr-input-func {
     position: relative;
@@ -3650,10 +3625,10 @@ div#sparklinehome canvas {
     width: 100% !important;
 }
 .header-top-area {
-    background: #006DF0;
+    background: var(--couleur-yellow);
 }
 .sidebar-nav .metismenu{
-	background: #fff;
+	background: var(--couleur-dark);
 }
 .sidebar-nav {
     background: #fff;
@@ -3699,7 +3674,7 @@ div#sparklinehome canvas {
     color: #fff;
 }
 #sidebar {
-    background: #fff;
+    background: var(--couleur-dark);
 }
 #sidebar .sidebar-header {
     background: #fff;
@@ -3723,7 +3698,7 @@ div#sparklinehome canvas {
     background-color: #86bc42;
 }
 .footer-copyright-area {
-    background: #006DF0;
+    background: var(--couleur-blue);
 	padding: 20px 0px;
     text-align: center;
 }
@@ -4118,8 +4093,9 @@ div#sparklinehome canvas {
 	font-weight:300;
 }
 .menu-switcher-pro .btn-info:active, .menu-switcher-pro .btn-info:focus, .menu-switcher-pro .btn-info:hover, .menu-switcher-pro .btn-info:visited, .header-drl-controller-btn.btn-info:active:focus{
-	background: #006DF0;
-	outline:none;
+	background: #ffffff;
+    outline:none;
+    color: var(--couleur-dark)
 }
 .mini-navbar .single-review-st-text img {
     height: 56px;
